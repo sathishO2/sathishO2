@@ -8,10 +8,6 @@ Associate Software Engineer at InnoBoon, passionate about coding, machine learni
 
 - 💻 Building FastAPI applications with PostgreSQL
 
-## 🌐 Reach out to me at:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish10)
-
 # 💻 Tech Stack:
 
 Languages:
